@@ -16,3 +16,6 @@ imie: imie uzytkownika
 nazwisko: nazwisko uzytkownika
 wybranyKurs: wybrany kurs
 Funkcja handleSubmit sprawdza, czy wszystkie pola są wypelnione, i wyswietla odpowiedni komunikat.
+
+![Alt text](image.png)
+![Alt text](image-1.png)
